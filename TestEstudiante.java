@@ -14,7 +14,7 @@ public class TestEstudiante
         System.out.println("Creamos varios objetos Estudiante");
         Estudiante e1 = new Estudiante("Alberto", 22);
         e1.printEstudiante();
-        Estudiante e2 = new Estudiante("Ana", 18);
+        Estudiante e2 = new Estudiante("Luis", 18);
         e2.printEstudiante();
         Estudiante e3 = new Estudiante("Juan", 26);
         e3.printEstudiante();
